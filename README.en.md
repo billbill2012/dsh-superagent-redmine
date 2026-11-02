@@ -6,6 +6,7 @@
 > let the agent work in an isolated worktree, and write results back as Redmine notes.
 > Images in the description/comments can be **read by the model**.
 
+[![CI](https://github.com/billbill2012/dsh-superagent-redmine/actions/workflows/ci.yml/badge.svg)](https://github.com/billbill2012/dsh-superagent-redmine/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Node](https://img.shields.io/badge/node-%5E22.19%20%7C%7C%20%3E%3D24-brightgreen)
 ![Redmine](https://img.shields.io/badge/redmine-2.3%2B-red)
