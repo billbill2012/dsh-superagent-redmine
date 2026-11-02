@@ -1,0 +1,6 @@
+packages:
+  - .
+
+# `dsh-superagent` is loaded in-process by DSH and is not published to a registry; it is declared as an optional
+# peer in package.json and must never be fetched or auto-installed by pnpm.
+autoInstallPeers: false

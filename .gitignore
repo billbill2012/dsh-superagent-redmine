@@ -1,0 +1,8 @@
+node_modules/
+lib/
+*.log
+.DS_Store
+coverage/
+
+# Design docs live outside the published package (see monorepo ../docs/)
+docs/
